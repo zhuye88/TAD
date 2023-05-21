@@ -8,4 +8,27 @@ Recently, deep learning has shown Phenomenal success in tackling these complexit
 
 This tutorial aims to present a comprehensive review of both shallow and deep-learning-based anomaly detection with explanation. We first introduce the key intuitions, objective functions, underlying assumptions, and advantages and disadvantages of state-of-the-art anomaly detection methods. We also introduce several principled approaches used to provide anomaly explanations for deep detection models. Furthermore, we will discuss the connections between classic shallow and novel deep methods and provide a practical guide on how to select an outlier detector in different applications.  
 
-Contributors
+**Contributors**
+
+Dr Ye Zhu, Deakin University, Australia
+
+Dr Guansong Pang, Singapore Management University, Singapore
+
+Mr Xin Han, Macau University, China
+
+Mr Yang Cao, Deakin University, Australia
+
+Dr Yue Zhao, Carnegie Mellon University, USA
+
+Mr Zong-you Liu, Nanjing University, China
+
+Dr Sutharshan Rajasegarar, Deakin University, Australia
+
+Dr Chen Li, Nagoya University, Japan
+
+Prof. Gang Li, Deakin University, Australia
+
+Prof. Ting Kai Ming, Nanjing University, China 
+
+
+
