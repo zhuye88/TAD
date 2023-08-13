@@ -18,15 +18,19 @@ Mr Xin Han, Macau University, China
 
 Mr Yang Cao, Deakin University, Australia
 
+Prof. Gang Li, Deakin University, Australia
+
 Dr Yue Zhao, Carnegie Mellon University, USA
 
 Mr Zong-you Liu, Nanjing University, China
+
+Dr Xuyun Zhang, Macquarie University, Australia
 
 Dr Sutharshan Rajasegarar, Deakin University, Australia
 
 Dr Chen Li, Nagoya University, Japan
 
-Prof. Gang Li, Deakin University, Australia
+
 
 Prof. Ting Kai Ming, Nanjing University, China 
 
