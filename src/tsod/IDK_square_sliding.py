@@ -1,5 +1,5 @@
 import numpy as np
-from functions.tsod.IDK import IK_inne_fm, IDK
+from .IDK import IK_inne_fm, IDK
 
 
 def IDK_square_sliding(X, width, psi1, psi2, t=100):

@@ -1,6 +1,6 @@
 import numpy as np
 import scipy.sparse as sp
-from functions.graphod.embedding import createWlEmbedding
+from .embedding import createWlEmbedding
 
 
 def generate_hnodes(h_adj):

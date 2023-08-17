@@ -1,5 +1,6 @@
-from functions.utils.iNN_IK import iNN_IK
+from src.utils.iNN_IK import iNN_IK
 import numpy as np
+
 
 def idk_kernel_map(list_of_distributions, psi, t=100):
     """
