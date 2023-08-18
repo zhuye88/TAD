@@ -4,13 +4,13 @@ from scipy.spatial.distance import cdist
 from scipy.sparse import csr_matrix
 
 
-class iNN_IK():
-    data = None
-    centroid = []
-
+class iNN_IK:
+    
     def __init__(self, psi, t):
         self.psi = psi
         self.t = t
+        self.data = None
+        self.centroid = []
 
     def fit_transform(self, data):
         self.data = data
