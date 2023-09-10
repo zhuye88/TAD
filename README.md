@@ -18,6 +18,8 @@ Mr Xin Han, Macau University, China
 
 Mr Yang Cao, Deakin University, Australia
 
+A/Prof. Mark Carman, Politecnico di Milano, Italy
+
 Prof. Gang Li, Deakin University, Australia
 
 Dr Yue Zhao, Carnegie Mellon University, USA
