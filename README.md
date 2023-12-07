@@ -18,7 +18,7 @@ This tutorial aims to present a comprehensive review of both shallow and deep-le
 
 - Revolutionizing Anomaly Detection-Approaches and Guidelines: 2023 the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)  
 
-**Contributors**
+#  Contributors
 
 Dr Ye Zhu, Deakin University, Australia
 
