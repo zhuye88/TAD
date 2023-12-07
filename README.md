@@ -8,6 +8,16 @@ Recently, deep learning has shown Phenomenal success in tackling these complexit
 
 This tutorial aims to present a comprehensive review of both shallow and deep-learning-based anomaly detection with explanation. We first introduce the key intuitions, objective functions, underlying assumptions, and advantages and disadvantages of state-of-the-art anomaly detection methods. We also introduce several principled approaches used to provide anomaly explanations for deep detection models. Furthermore, we will discuss the connections between classic shallow and novel deep methods and provide a practical guide on how to select an outlier detector in different applications.  
 
+# Conducted tutorials
+
+- How to Select Shallow and Deep Methods for Anomaly Detection: 2022 International Conference on Advanced Data Mining and Applications (ADMA) 
+
+- Moving Beyond Traditional Anomaly Detection: 2023 Pacific Asia Conference on Knowledge Discovery and Data Mining (PAKDD) 
+
+- Moving Beyond Traditional Anomaly Detection: 2023 International Joint Conference on Artificial Intelligence (IJCAI) 
+
+- Revolutionizing Anomaly Detection-Approaches and Guidelines: 2023 the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)  
+
 **Contributors**
 
 Dr Ye Zhu, Deakin University, Australia
@@ -32,9 +42,5 @@ Dr Sutharshan Rajasegarar, Deakin University, Australia
 
 Dr Chen Li, Nagoya University, Japan
 
-
-
 Prof. Ting Kai Ming, Nanjing University, China 
-
-
 
